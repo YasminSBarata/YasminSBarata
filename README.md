@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Yasmin Barata from Belém, Pará, Brazil. 🇧🇷<br><br>- 🔭 I’m a **4th-semester Computer Engineering student** passionate about **front-end development**, **robotics**, and **innovation**.<br>- ⚡ In my free time I develop personal and academic projects, participate in interdisciplinary initiatives at the **Engineering Office CESUPA**, and advocate for diversity in tech with the **IARAS collective**.</p>
+<p align="left">I'm Yasmin Barata from Belém, Pará, Brazil. 🇧🇷<br><br>- 🔭 I’m a 4th-semester Computer Engineering student passionate about front-end development, robotics, and innovation.<br>- ⚡ In my free time I develop personal and academic projects, participate in interdisciplinary initiatives at the Engineering Office CESUPA, and advocate for diversity in tech with the IARAS collective.</p>
 
 ###
 
