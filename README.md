@@ -3,7 +3,7 @@
 ###
 
 <h2 align="left">👩‍💻 Front-end development | 🤖 Embedded systems<br>🎓 Computer Engineering @ CESUPA (4th semester)</h2> 
-<h3>Passionate about combining design, technology, and hardware to solve real-world challenges.<br>I enjoy crafting responsive and intuitive user interfaces — and exploring the complex logic through embedded systems and software engineering.<br><br>I’m part of the CESUPA Engineering Office, collaborating on interdisciplinary projects,<br>and an active member of IARAS, a collective that promotes diversity and inclusion in tech.</h3>
+<h3>I’m a 4th-semester Computer Engineering student passionate about front-end development, robotics, and innovation.<br>I enjoy crafting responsive and intuitive user interfaces — and exploring the complex logic through embedded systems and software engineering.<br><br>I’m part of the CESUPA Engineering Office, collaborating on interdisciplinary projects,<br>and an active member of IARAS, a collective that promotes diversity and inclusion in tech.</h3>
 
 ###
 
