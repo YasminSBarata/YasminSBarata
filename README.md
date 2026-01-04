@@ -3,7 +3,7 @@
 
 ###
 
-<h2 align="left">👩‍💻 Software Developer<br>🎓 Computer Engineering @ CESUPA (4th semester)</h2>
+<h2 align="left">👩‍💻 Software Developer<br>🎓 Computer Engineering @ CESUPA</h2>
 
 ###
 
@@ -41,6 +41,6 @@
 
 ###
 
-<h3 align="left">I'm a Computer Engineering student and Full Stack Developer focused on building data-driven web applications. I enjoy creating clean, responsive interfaces and developing robust back-end solutions. Currently working as a Full Stack Developer intern, turning ideas into functional and well-structured software.</h3>
+<h3 align="left">I'm a Computer Engineering student and Full Stack Developer focused on building modern web applications. I enjoy creating clean, responsive interfaces and developing robust back-end solutions. Currently working as a Full Stack Developer intern, turning ideas into functional and well-structured software.</h3>
 
 ###
