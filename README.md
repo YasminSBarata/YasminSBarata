@@ -16,7 +16,7 @@
 
 I'm a Computer Engineering student and Full Stack Developer who enjoys working across the whole stack — from responsive interfaces to APIs, databases and deploy. Lately I've also been building with Python for AI systems and data pipelines, and I love projects where software meets real people and real hardware.
 
-- 💼 Full Stack Developer intern — React, TypeScript, Node.js, PostgreSQL
+- 💼 Full Stack Developer — React, TypeScript, Node.js, PostgreSQL
 - 🔬 CNPq research on active aging — IoT wearable + real-time clinical dashboard for physiotherapists
 - 🤖 Building agentic RAG systems with LangGraph (LAPES · CESUPA)
 - 📊 Data engineering with Medallion architecture, pytest, Docker and GitHub Actions
