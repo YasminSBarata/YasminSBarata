@@ -21,7 +21,6 @@ I'm a Computer Engineering student and Full Stack Developer who enjoys working a
 - 🤖 Building agentic RAG systems with LangGraph (LAPES · CESUPA)
 - 📊 Data engineering with Medallion architecture, pytest, Docker and GitHub Actions
 - 💜 Member of IARAS, CESUPA's Women in Computing group
-- 🌱 Currently learning: AWS (Cloud Practitioner, Bedrock) and Flutter
 
 ---
 
